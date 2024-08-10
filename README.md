@@ -1,5 +1,4 @@
-<h3 align="left">Olá! Meu nome é Thiago e sou um Desenvolvedor Web :) <br><br>Sempre fui muito curioso e adoro pesquisar e aprender novas ferramentas para satisfazer a minha curiosidade, como Java, Spring, C#, .NET, HTML/CSS, JavaScript, TypeScript e React. Adoro me sentir desafiado em realizar diversas tarefas então não tenho medo de pedir ajuda e trabalhar em equipe para alcançar os meus objetivos, assim como oferecer ajuda e treinamento aos meus colegas de acorco com as minhas capacidades assim que houver necessidade.<br><br>Tenho como objetivo unir as minhas capacidades que desenvolvi na área de Design com as habilidades que venho aprendendo em constante evolução na área de Tecnologia e Desenvolvimento.
-</h3>
+<h3 align="left">Olá! Meu nome é Thiago e sou um Desenvolvedor Web :) <br><br>Estou em transição de carreira vindo do setor de Design Gráfico e trago comigo uma série de experiências e aprendizados que foram muito importantes na minha jornada para Desenvolvedor Web Full Stack até então. Sempre fui muito curioso e adoro pesquisar e aprender novas ferramentas para satisfazer a minha curiosidade, como Java, Spring, HTML/CSS, JavaScript, TypeScript e React. Adoro me sentir desafiado em realizar diversas tarefas então não tenho medo de pedir ajuda e trabalhar em equipe para alcançar os meus objetivos, assim como oferecer ajuda e treinamento aos meus colegas de acorco com as minhas capacidades assim que houver necessidade.</h3>
 
 ###
 
@@ -46,6 +45,7 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/thiago-lima99/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="thiago.plima99@gmail.com" target="_blank">
@@ -58,9 +58,5 @@
 <div align="center">
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pycG9qbWRrdDN5OGlna2F2dnl3Y2wwdnVjbmJtcnlidmF4OXJheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
