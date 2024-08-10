@@ -1,4 +1,5 @@
-<h3 align="left">Olá! Meu nome é Thiago e sou um Desenvolvedor Web :) <br><br>Sempre fui muito curioso e adoro pesquisar e aprender novas ferramentas para satisfazer a minha curiosidade, como Java, Spring, HTML/CSS, JavaScript, TypeScript e React. Adoro me sentir desafiado em realizar diversas tarefas então não tenho medo de pedir ajuda e trabalhar em equipe para alcançar os meus objetivos, assim como oferecer ajuda e treinamento aos meus colegas de acorco com as minhas capacidades assim que houver necessidade.</h3>
+<h3 align="left">Olá! Meu nome é Thiago e sou um Desenvolvedor Web :) <br><br>Sempre fui muito curioso e adoro pesquisar e aprender novas ferramentas para satisfazer a minha curiosidade, como Java, Spring, HTML/CSS, JavaScript, TypeScript e React. Adoro me sentir desafiado em realizar diversas tarefas então não tenho medo de pedir ajuda e trabalhar em equipe para alcançar os meus objetivos, assim como oferecer ajuda e treinamento aos meus colegas de acorco com as minhas capacidades assim que houver necessidade.<br><br>Tenho como objetivo unir as minhas capacidades que desenvolvi na área de Design com as habilidades que venho aprendendo em constante evolução na área de Tecnologia e Desenvolvimento.
+</h3>
 
 ###
 
