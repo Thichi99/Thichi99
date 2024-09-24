@@ -1,4 +1,8 @@
-<h3 align="left">Olá! Meu nome é Thiago e sou um Desenvolvedor Web :) <br><br>Estou em transição de carreira vindo do setor de Design Gráfico e trago comigo uma série de experiências e aprendizados que foram muito importantes na minha jornada para Desenvolvedor Web Full Stack até então. Sempre fui muito curioso e adoro pesquisar e aprender novas ferramentas para satisfazer a minha curiosidade, como Java, Spring, HTML/CSS, JavaScript, TypeScript e React. Adoro me sentir desafiado em realizar diversas tarefas então não tenho medo de pedir ajuda e trabalhar em equipe para alcançar os meus objetivos, assim como oferecer ajuda e treinamento aos meus colegas de acorco com as minhas capacidades assim que houver necessidade.</h3>
+<h3 align="left">Olá! Meu nome é Thiago e sou um Desenvolvedor Web :) <br><br>Desenvolvedor Web Full Stack com conhecimentos nas tecnologias Java, Spring, C#, .NET, MySQL,
+PostgreSQL, Javascript/Typescript e React, carregando experiências da área de Design como UI/UX,
+elaboração de layouts, criação de identidades visuais, interpretação de brainstorms e pensamentos
+críticos.
+</h3>
 
 ###
 
